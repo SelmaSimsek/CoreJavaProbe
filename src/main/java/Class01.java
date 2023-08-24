@@ -14,6 +14,10 @@ public class Class01 {
         System.out.println("versiyon 3 icin kodlar ");
         System.out.println("versiyon 3 icin kodlar");
 
+        //versiyon 4
+        System.out.println("Hatali Kodlar");
+
+
 
 
 
