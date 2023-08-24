@@ -10,6 +10,11 @@ public class Class01 {
         int z = 5;
         System.out.println(x+y+z);
 
+        //versiyon3
+        System.out.println("versiyon 3 icin kodlar ");
+        System.out.println("versiyon 3 icin kodlar");
+
+
 
 
         
